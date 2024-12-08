@@ -1,0 +1,19 @@
+.norm {
+    background-color: pink;
+    font-size: 20px;
+}
+
+.cool {
+    font-size: 30px;
+}
+
+#fancy {
+    font-size: 50px;
+    color: blue;
+}
+
+#strong {
+    font-weight: bold;
+    background-color: lime;
+    font-size: 27px;
+}
